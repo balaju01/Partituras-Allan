@@ -1,0 +1,5 @@
+Angelina:
+en compas 33 se agrego una segunda casilla
+compas 34 se agrego barra de repeticion
+*Se quito segno compas 52 se sustitullo por un fine
+*se agrego D.C. al fine en el compas 84
