@@ -1,5 +1,34 @@
+Alejandra:
+-Se agregaron estacatos en los octavos del compas 3
+-se elimino el si bemol de cortecia del compas 6
+-se elimino la segunda casilla del compas 22 y 23
+-se elimino la segunda casilla del compas 40 y 41
+-se elimino la segunda casilla del compas 74 y 75 
+-se elimino la segunda casilla del compas 92 y 93
+-se elimino si becuadro de cortesia del compas 88
+-se cambiaron los 2 silencios de cuarto por silencio de media en compas 91
+-se agrego indicacion de Fine en el compas 21
+
+America Inmortal:
+-se cambio la blanca con puntillo por una redonda en el compas 11
+-se agrego sol becuadro de cortesia en el compas 14
+-se agrego becuadro de cortesia en el compas 47
+-se elimino signo de sostenido del fa# del cuarto tiempo en el compas 54
+-se elimino signo de sostenido del fa# del tercer tiempo en el compas 65
+-se agrego silencio de cuarto en tiempo cuatro en el compas 65
+
 Angelina:
-en compas 33 se agrego una segunda casilla
-compas 34 se agrego barra de repeticion
-*Se quito segno compas 52 se sustitullo por un fine
-*se agrego D.C. al fine en el compas 84
+-en compas 33 se agrego una segunda casilla
+-compas 34 se agrego apertura de barra de repeticion
+-Se quito segno compas 51 
+-se agrego D.C. al fine en el compas 84
+
+Chayito:
+-Se elimino signo de repetir del compas 2, y se coloca el compas 1
+-Se elimino signo de repetir del compas 10, y se coloca el compas 9
+-Se agrega coda al compas 36
+-Se agrega segunda casilla en el compas 54
+-Se agrega becuadro al compas 73
+-Se agrega nota de mi en el compas 78
+-Se elimina D.C. en compas 89
+-Se agrega tema A del compas 90 en adelante
