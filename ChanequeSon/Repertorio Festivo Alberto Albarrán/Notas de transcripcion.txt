@@ -1,3 +1,5 @@
+30-30
+Acorde del Zopilote Cuerda Larga
 Alejandra:
 -Se agregaron estacatos en los octavos del compas 3
 -se elimino el si bemol de cortecia del compas 6
@@ -32,3 +34,90 @@ Chayito:
 -Se agrega nota de mi en el compas 78
 -Se elimina D.C. en compas 89
 -Se agrega tema A del compas 90 en adelante
+
+Corrido de Monterrey:
+-Se elimino el segno del compas 1  y se agrego el tema 1 al final
+-Las notas del compas 22 se definieron como terceras
+
+Coyuca
+-Compas 10 se considera como compas de repeticion del compas 9
+-Se esbosa primer casilla en compas 23 sin segunda casilla
+-Se recomienda terminar la pieza en las frases A o B
+
+Elena
+-se agrega signo de Fine en compas 32
+-Se agrega Dal Segno al fine en compas 67
+
+Emilio Portes Gil
+- Del compas 47 al 67 a las figuras de blanca que estan ocupando un compas completo se cambiaron por blanca con puntillo
+-se agrega signo de Fine en compas 24
+-Se agrega Dal Segno al fine en compas 78
+-Se agrego segunda casilla en el compas 42
+
+Florecitas del recuerdo
+-Se agrega indicación de moderato al principio
+-Compas 52 no se aprecia el compas completo por lo que se escribe 3 negras en nota de Do
+- Nota: se sugieren 3 formas de terminar la pieza ****
+
+Extra 1 – fragmento
+
+Jalisco nunca pierde
+-En el compas 38 ca cambiaron figuras de negra por corcheas
+- En los compases 35 al 38 el original no tiene casillas, se sugiere primer casilla 35, 36 y segunda 37, 38
+-se agrega signo de Fine en compas 9
+
+La Docellita
+-se agrega moderato al inicio
+-se agrega barra de repeticion en el compas 68
+
+
+Lucrecia
+
+Luz de mis ojos
+
+
+Marielena
+- se elimina casilla del compas 33
+- se cambia segno del compas 70 por dal segno
+
+Mis Labios Encantadora
+-se agregan casillas en compases 17 y 18
+- se cambia segno del compas 42 por dal segno
+
+Negra
+-Del compas 6 al 10 y del 29 al 33 se colocan como compases vacios
+
+No. 100
+
+Noche De Luna
+-Se elimino el segno del compas 8
+-Se elimino el segno del compas 40
+
+Prisionero (fragmento)
+Radio
+
+Ramona
+-se agregan casillas en compases 55, 56 y 57
+
+Reir Llorando
+- se agrego indicacion Moderato en compas 1
+
+Rizos de Oro
+-Se elimino el copas 40 ya que no es necesario colocarla como segunda casilla
+-se elimino el segno del compas 58
+
+Sobre La Olas
+Solamente Una Vez
+
+Todo para ti mi Reyna
+-se agrega re# al segundo octavo del compas 34
+
+Una Vela De Cera Encendida
+
+Venganzas
+-En los compases 46, 47, 62 y 63 se cambio el Sol# por Lab
+
+Viva Mi Desgracia
+
+Ya Ma Voy de Aqui
+-Se quita segno de compas 1 y se agrega al compas 2
