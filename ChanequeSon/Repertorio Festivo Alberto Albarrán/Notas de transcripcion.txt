@@ -1,5 +1,9 @@
 30-30
+-se quita segno del compas 56 y se cambia por Dal segno al fine
+-se agrega Fine al compas 5
+
 Acorde del Zopilote Cuerda Larga
+
 Alejandra:
 -Se agregaron estacatos en los octavos del compas 3
 -se elimino el si bemol de cortecia del compas 6
@@ -57,7 +61,7 @@ Emilio Portes Gil
 Florecitas del recuerdo
 -Se agrega indicación de moderato al principio
 -Compas 52 no se aprecia el compas completo por lo que se escribe 3 negras en nota de Do
-- Nota: se sugieren 3 formas de terminar la pieza ****
+- Nota: se sugieren 3 formas de terminar la pieza: la primera es haciendo una estructura de Rondo A - B - A - C - A - B y terminar en el compas 53, la segunda es hacer toda la obra A - B - C y regresar al segno del compas 50 para terminar en 53 y por ultimo usar una estructura de repeticion tipo Rondo y a gusto del interprete al finar del tema A o del B usar del compas 50 al 53 como final 
 
 Extra 1 – fragmento
 
@@ -119,5 +123,7 @@ Venganzas
 
 Viva Mi Desgracia
 
-Ya Ma Voy de Aqui
+Ya Me Voy de Aqui
 -Se quita segno de compas 1 y se agrega al compas 2
+
+Ya Me Voy
