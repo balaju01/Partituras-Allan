@@ -1,0 +1,61 @@
+Responso Número 4
+
+Marcha Fúnebre No. 1
+-Se recomienda terminar en el tercer tiempo del compas 9
+-Se cambia segno por Dal segno en compas 28
+
+Introducción Fúnebre
+-Se agrego casilla en el compas 16 y 17
+-Se sugiere terminar en el primer tiempo del compas 17
+-Se cambia segno por Dal segno en compas 54
+
+Para Siempre Adiós Fúnebre
+
+
+Marcha Fúnebre No. 3
+-Se cambia segno por Dal segno en compas 28
+-Se sugiere terminar en el compas 27
+
+Marcha Fúnebre No. 7
+-Se eliminaron casillas del compas 18 y 19
+-Se elimino compas 19 ya que es el mismo que el compas 18 por lo que no tiene sentido que sea segunda casilla
+-Se sugiere terminar en el calderon del compas 27
+
+Marcha Fúnebre No. 4
+-Se agrego segno en el compas 2
+-Se agrego dal segno en el compas 28
+-Se sugiere terminar en el compas 10
+
+Sin Patria Ni Hogar
+
+JCone Fúnebre
+
+Adiós a la vida
+-Se elimino compas 70 ya que es el mismo que el compas 69 por lo que no tiene sentido que sea segunda casilla
+
+Marcha Fúnebre No. 6
+Una Plegaria
+
+Arias A La Virgen
+-se agrgan barras de repeticion en compases 2, 20, 52
+
+Para Mi Sepulcro
+-se agrgan barras de repeticion en compases 30, 31, 47 y 48
+-Se cambia segno por Dal segno en compas 48
+
+Marcha Fúnebre No. 2
+-Se cambia segno por Dal segno en compas 31
+
+Marcha Fúnebre No. 6
+-se agrgan barras de repeticion en compases 25 y 26
+
+Lucrecia
+
+Angelina
+-Se recomienda terminar en el compas 32
+
+Rizos de Oro
+-Se agrego indicacion de tempo Moderato en compas 1
+
+Reír Llorando
+-Se agrego indicacion de tempo Moderato en compas 1
