@@ -1,3 +1,6 @@
+Criterios editoriales
+-Los textos se modernizan a la convencion actual
+
 30-30
 -se quita segno del compas 56 y se cambia por Dal segno al fine
 -se agrega Fine al compas 5
@@ -76,9 +79,13 @@ La Docellita
 
 
 Lucrecia
+-se elimina sol# del compas 48
+-se esbosa Mi en el primer tiempo del compas 51
+-S4 elimina segno del compas 99 y se sustitulle por Da capo al fina
+-Se esbosa Fina en compas 35
 
 Luz de mis ojos
-
+-se agrega solencio de corchea en el primer tiempo del compas 37
 
 Marielena
 - se elimina casilla del compas 33
@@ -111,10 +118,13 @@ Rizos de Oro
 -se elimino el segno del compas 58
 
 Sobre La Olas
+-se TOMA COMO BASE LA VERSION DEL CUADERNILLO FUNEBRE 
 Solamente Una Vez
 
 Todo para ti mi Reyna
 -se agrega re# al segundo octavo del compas 34
+-se agrego Da capo al fine en el compas 79
+-se agrega Fine en compas 32
 
 Una Vela De Cera Encendida
 
@@ -122,6 +132,9 @@ Venganzas
 -En los compases 46, 47, 62 y 63 se cambio el Sol# por Lab
 
 Viva Mi Desgracia
+-se elimina becuadro el tiempo 3 de los compases 6 y 22
+-se agrega Fine en compas 86
+-se agrega Da capo al Fine en compas 86
 
 Ya Me Voy de Aqui
 -Se quita segno de compas 1 y se agrega al compas 2

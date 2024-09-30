@@ -1,4 +1,5 @@
 Responso Número 4
+-Se cambia indicacion de Violin 1 por Violin
 
 Marcha Fúnebre No. 1
 -Se recomienda terminar en el tercer tiempo del compas 9
@@ -10,7 +11,8 @@ Introducción Fúnebre
 -Se cambia segno por Dal segno en compas 54
 
 Para Siempre Adiós Fúnebre
-
+-compas 14 cambiamos mi# por mi becuadro
+-en el original aparece como Para Siempre a Dios, se moderniza el texto por Para Siempre adios
 
 Marcha Fúnebre No. 3
 -Se cambia segno por Dal segno en compas 28
@@ -30,11 +32,16 @@ Sin Patria Ni Hogar
 
 JCone Fúnebre
 
+
 Adiós a la vida
 -Se elimino compas 70 ya que es el mismo que el compas 69 por lo que no tiene sentido que sea segunda casilla
 
 Marcha Fúnebre No. 6
+-se agrgan barras de repeticion en compases 25 y 26
+
 Una Plegaria
+-se elimina calderon del tercer tiempo del compas 39
+-se cambia silencio de negra por silencio de corchea en compas 39
 
 Arias A La Virgen
 -se agrgan barras de repeticion en compases 2, 20, 52
@@ -42,20 +49,37 @@ Arias A La Virgen
 Para Mi Sepulcro
 -se agrgan barras de repeticion en compases 30, 31, 47 y 48
 -Se cambia segno por Dal segno en compas 48
+-se proponen 3 formas de terminar la pieza puede terminar en el compas 13, 31 o 48 dependiendo del momento de la pieza donde se encuentre
 
 Marcha Fúnebre No. 2
 -Se cambia segno por Dal segno en compas 31
-
-Marcha Fúnebre No. 6
--se agrgan barras de repeticion en compases 25 y 26
+-se cambio mi# por mi becuadro en compas 15
+-Se sugiere terminar en el tercer tiempo del compas 31
 
 Lucrecia
 
 Angelina
--Se recomienda terminar en el compas 32
+-Se agrega signo de Fine en el compas 32
 
 Rizos de Oro
 -Se agrego indicacion de tempo Moderato en compas 1
+-Se elimino casilla del compas 39
+-se recomienda terminar en el compas 49
 
 Reír Llorando
 -Se agrego indicacion de tempo Moderato en compas 1
+-Se modernizo el texto del titulo
+
+Sobre las Olas
+-se cambia el mi doble sostenido por mi# en los compases 41, 45 y 61
+-comapas 80 se cambia el mi doble sostenido por fa becuadro
+-se agregaron ligaduras a los adornos de los compases 29, 37, 169, 49 y 53
+-se cambia sol becuado por sol y fa# por fa en compas 137
+-se cambia sol becuado por sol en compas 150
+
+Florecitas del Recuerdo
+-Se agrega Da capo al Fine en compas 86
+-Se agrega Fine en compas 32
+
+Marielena
+-compas 55 se esbosa La en tiempo tres
