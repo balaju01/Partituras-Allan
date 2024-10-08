@@ -38,6 +38,7 @@ Adiós a la vida
 
 Marcha Fúnebre No. 6
 -se agrgan barras de repeticion en compases 25 y 26
+-se agregan osias en los compases 4, 6, 17 y 27 con variaciones de la melodia
 
 Una Plegaria
 -se elimina calderon del tercer tiempo del compas 39
